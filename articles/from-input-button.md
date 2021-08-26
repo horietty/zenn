@@ -47,7 +47,7 @@ form内にbuttonが複数ある場合は明示的にどのボタンにもtype指
 
 # サンプル
 参考までに色々なinput typeのサンプルです
-textareaはenter押下=改行なので他の様にbuttonがはっかすることはありませんでした。
+textareaは`enter押下=改行`なので他の様にbuttonが発火することはありませんでした。
 
 ### [formサンプル1](https://runstant.com/horieyuto/projects/2dc706f3)(バグるバージョン)
 ### [formサンプル2](https://runstant.com/horieyuto/projects/f4f3b41f)(修正バージョン)
