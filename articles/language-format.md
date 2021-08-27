@@ -1,8 +1,8 @@
 ---
-title: "めちゃくちゃ簡易的に複数言語で表示できるページを作る"
+title: "めちゃくちゃ簡易的に複数言語で表示できるページを作る(多言語対応)"
 emoji: "🛩"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["rabee","language","localize","Navigator"]
+topics: ["rabee","language","localize","Navigator","多言語対応"]
 published: true
 ---
 # 今回作りたいもの
