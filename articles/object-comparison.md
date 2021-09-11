@@ -1,6 +1,6 @@
 ---
 title: "for in を使ったオブジェクトの比較"
-emoji: "📝"
+emoji: "🔍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","frontend","javascript","object","comparison"]
 published: true
