@@ -17,7 +17,7 @@ javascript の超便利メソッド some, every 自分も普段からよく使�
 
 ``` js
 var hoge = [];
-var fuga = ['aaaaaa'];
+var fuga = 'aaaaaa';
 var every_result_1 = hoge.every(h => h === fuga);
 var some_result_1 = hoge.some(h => h === fuga);
 console.log('every_result_1', every_result_1);
