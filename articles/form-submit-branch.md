@@ -17,7 +17,7 @@ published: true
 コードを見てもらえるとわかるのですが、html 上は存在するが、ユーザーからは見えない button を用意してあります
 これは enter押下時に最初の submit button が発火するため、デフォルトの処理としたい buttonB とおなじ submit を発火させるためのものです。
 
-``` html
+```html
 <div class='container p12'>
   <form onsubmit="onSubmit(event)">
     <div class="flex fm fbw mb12">
