@@ -4,6 +4,7 @@ emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","frontend","project","manager","PM"]
 published: true
+publication_name: "rabee"
 ---
 # 簡単に自己紹介
 東京の企業でフロントエンジニアをしているhoriettyです。
