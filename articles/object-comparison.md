@@ -4,6 +4,8 @@ emoji: "🔍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","frontend","javascript","object","comparison"]
 published: true
+publication_name: "rabee"
+
 ---
 
 # 今回のゴール

@@ -4,6 +4,8 @@ emoji: "🛩"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","language","localize","Navigator","多言語対応"]
 published: true
+publication_name: "rabee"
+
 ---
 # 今回作りたいもの
 - 日本語、英語、中国語で表示される簡易的なページ

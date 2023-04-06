@@ -4,6 +4,7 @@ emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","frontend","HTML","form","input"]
 published: true
+publication_name: "rabee"
 ---
 
 # 事象の前提

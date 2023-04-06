@@ -4,6 +4,8 @@ emoji: "💻"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","typing","ankey","efficiency"]
 published: true
+publication_name: "rabee"
+
 ---
 
 ## 今回紹介するサービス Ankey
