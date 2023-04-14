@@ -2,7 +2,7 @@
 title: "Milkdown エディター内の要素をクリックした時のハンドリング方法"
 emoji: "🌀"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["rabee","frontend","milkdown", "markdown"]
+topics: ["rabee","frontend","Milkdown", "Markdown"]
 published: true
 publication_name: "rabee"
 ---
