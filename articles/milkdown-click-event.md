@@ -17,7 +17,7 @@ Milkdown とは マークダウンエディターフレームワークです。R
 ## 対応したいこと
 
 Milkdown はエディターを更新すると、即マークダウンの HTML に変換されます。
-aタグも`[hogehoge](https://hogehoge.com)`と書くとすぐに変換されるのですが、デフォルトの挙動が同じタブ内で開くので、今回は別タブで開きたいと思います。
+aタグも`[hogehoge](https://hogehoge.com)`と書くとすぐに変換されるのですが、クリック時のデフォルトの挙動が同じタブ内で開くので、今回は別タブで開くよう実装していきたいと思います。
 
 ## 対応方法
 
@@ -49,7 +49,7 @@ const handleElementClick = (view, event) => {
 
 実装前のイメージだと listner に click イベントを登録して、aタグだったら別タブで開けないかなと思っていたのですが、
 どうやら Milkdown の listner には click系のものがなかったので、handleDOMEvents に click イベントを登録することで実現できました。
-ちなみに、handleDOMEvents で受け取っている view は 関数内では使用してないですが受け取らないと event.target が取得できなかったので、受け取っています。
+ちなみに、handleElementClick で受け取っている view は 関数内では使用してないですが受け取らないと event.target が取得できなかったので、受け取っています。
 
 ## 最後に
 短い記事にはなりますが、まだ Milkdown の情報は少ないので、ぜひ活用してみてください。
