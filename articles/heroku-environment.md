@@ -21,7 +21,7 @@ publication_name: "rabee"
 
 今回はダッシュボードからの設定方法を紹介します。
 
-1. Heroku Dashboardにアクセスし、ログインしてください。
+1. [Heroku Dashboard](https://dashboard.heroku.com/apps)にアクセスし、ログインしてください。
 2. アプリケーション一覧から、環境変数を変更したいアプリケーションを選択します。
 3. 左側のナビゲーションバーで「Settings」（設定）タブをクリックします。
 4. 「Config Vars」（環境変数）セクションまでページをスクロールし、「Reveal Config Vars」ボタンをクリックします。
