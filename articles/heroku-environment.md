@@ -11,7 +11,7 @@ publication_name: "rabee"
 
 まずはじめに、Herokuはクラウドベースのプラットフォーム・アズ・ア・サービス（PaaS）で、アプリケーションの開発、デプロイ、運用を簡単に行えます。多様なプログラミング言語をサポートし、Gitを使った簡単なデプロイが可能です。また、機能を追加するためのアドオンが用意されています。インフラの管理が不要なため、開発者はアプリケーション開発に集中できます。
 
-[Heroku ドキュメント](https://devcenter.heroku.com/ja/categories/reference)
+[ドキュメント | Heroku Dev Center](https://devcenter.heroku.com/ja/categories/reference)
 
 ## デフォルトの環境変数
 
