@@ -13,10 +13,7 @@ publication_name: "rabee"
 
 [ドキュメント | Heroku Dev Center](https://devcenter.heroku.com/ja/categories/reference)
 
-## デフォルトの環境変数
-
-上述の通り Heroku は便利なサービスですが、環境変数（Environment Variables）を設定しないとデフォルトで production となります。そのため、開発環境での動作確認を行う際には、環境変数を設定する必要があります。
-
+![](/images/2023-04-27-17-51-01.png)
 ## 設定方法
 
 今回はダッシュボードからの設定方法を紹介します。
