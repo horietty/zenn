@@ -3,7 +3,7 @@ title: "Heroku でダッシュボードから環境変数を設定する方法"
 emoji: "🌀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","frontend","heroku", "environment"]
-published: false
+published: true
 publication_name: "rabee"
 ---
 
