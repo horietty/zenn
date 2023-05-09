@@ -40,7 +40,7 @@ const stripe = require('stripe')('YOUR_STRIPE_SECRET_API_KEY');
 
 8. 必要な機能（チェックアウト、サブスクリプションなど）を実装し、テスト用のAPIキーを使用して動作確認を行います。
 
-9. 必要に応じて、テストカード番号（https://stripe.com/docs/testing#cards） を使用して、さまざまなシナリオをテストします。
+9. 必要に応じて、[テストカード番号](https://stripe.com/docs/testing#cards) を使用して、さまざまなシナリオをテストします。
 
 
 ## ダッシュボードから設定できること
