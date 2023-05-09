@@ -14,7 +14,7 @@ Stripe にはテスト環境と本番環境があり、この記事ではテス�
 [Stripe](https://stripe.com/jp?utm_campaign=JP_JA_Search_Brand_Stripe_EXA-19310753508&utm_medium=cpc&utm_source=google&ad_content=643624446228&utm_term=stripe&utm_matchtype=e&utm_adposition=&utm_device=c&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF0xrl2UQXkmq27O6QBNdDw_wV4EW0WaFQkiMG-UDsZ0Ey_L7cZ4JvwaApRMEALw_wcB)
 
 ## テスト環境の作成と検証方法
-1. [Stripeの公式ウェブサイ](https://stripe.com/) にアクセスし、「Start now」ボタンをクリックしてアカウント作成ページに移動します。
+1. [Stripeの公式ウェブサイト](https://stripe.com/) にアクセスし、「Start now」ボタンをクリックしてアカウント作成ページに移動します。
 
 2. 必要な情報（名前、メールアドレス、パスワード）を入力し、「Create your Stripe account」ボタンをクリックしてアカウントを作成します。
 
