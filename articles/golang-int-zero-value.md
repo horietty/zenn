@@ -3,7 +3,7 @@ title: "golang int64型のゼロ値は 0 を業務内で実感した話"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","backend","golang","int","zero-value"]
-published: false
+published: true
 publication_name: "rabee"
 ---
 
