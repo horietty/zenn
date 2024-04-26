@@ -3,7 +3,7 @@ title: "inputにフォーカスしているときにEnterキー押下で意図�
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rabee","frontend","HTML","form","input"]
-published: true
+published: false
 publication_name: "rabee"
 ---
 
